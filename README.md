@@ -52,8 +52,8 @@ This dashboard automates reporting and provides real-time business insights.
 
 ---
 ## 📊 Dashboard Preview
-![Dashboard](https://github.com/alhajtp04-ux/Car-Sales-Power-BI-Dashboard/blob/main/Car_dashbord_screen/Screenshot%202026-02-06%20142655.png)
-
+![Dashboard 1](https://github.com/alhajtp04-ux/Car-Sales-Power-BI-Dashboard/blob/main/Car_dashbord_screen/Screenshot%202026-02-06%20142655.png)
+![Dashboard 2](https://github.com/alhajtp04-ux/Car-Sales-Power-BI-Dashboard/blob/main/Car_dashbord_screen/Screenshot%202026-02-06%20145035.png)
 
 
 
