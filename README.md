@@ -51,6 +51,11 @@ This dashboard automates reporting and provides real-time business insights.
 - Enabled data-driven decision-making
 
 ---
+## 📊 Dashboard Preview
+![Dashboard]()
+
+
+
 
 ⭐ Created by Alhaj
 
